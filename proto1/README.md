@@ -11,7 +11,9 @@ I'm new to many of the topics here, so it's just the starting point.
 * obstacle avoidance with back and forth movement
 * build chase and distance sensor holder from Lego technic parts
 
-![top view](version1.jpg "Logo Title Text 1")
+![top view](version1.jpg "")
+
+![](self_driving_car_1_bb.png "")
 
 *See it in action* 
 https://www.instagram.com/p/BR0HgL5Bhza/?taken-by=yortuc
